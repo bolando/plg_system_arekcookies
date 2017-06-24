@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension type="plugin" group="system" version="3.6.5" method="upgrade">
+	<name>Arek cookies</name>
+	<author>Arkadiusz Taraszka</author>
+	<creationDate>April 2017</creationDate>
+	<copyright>Copyright (C) 2017</copyright>
+	<license>GNU General Public License version 2 or later</license>
+	<authorEmail>arkadiusz.taraszka@gmail.com</authorEmail>
+	<authorUrl>brak</authorUrl>
+	<version>1.0</version>
+	<description>Wtyczka linki z ikon do FB i YouTube.</description>
+	
+	<files>
+		<filename plugin="arekcookies">arekcookies.php</filename>
+		<filename>index.html</filename>
+		<filename>/addons/style.css</filename>
+		<filename>/js/script.js</filename>
+
+	</files>
+		
+	<languages>
+		<language tag="pl-PL">pl-PL.plg_system_arekcookies.ini</language>
+	</languages>
+	
+
+
+</extension>

@@ -1,0 +1,22 @@
+#cookie_info{
+	padding: 10px 0px; 
+	font-size: 10px; 
+	line-height: 22px; 
+	border-bottom: 1px solid #D3D0D0; 
+	text-align: center; 
+	position: fixed; 
+	bottom: 0px; 
+	background-color: #54397e; 
+	width: 100%; 
+	z-index: 999;
+	color: #d5c5c5;
+	}
+	
+#end_cookie_info{
+	text-decoration: underline;
+	cursor: pointer;
+	}
+
+
+
+
